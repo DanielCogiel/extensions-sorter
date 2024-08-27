@@ -37,7 +37,7 @@ if __name__ == "__main__":
     create_extension_tree(
         extensions=unique_extensions,
         files=files,
-        output_folder='output'
+        output_folder=sys.argv[2] or 'output'
     )
 
 
