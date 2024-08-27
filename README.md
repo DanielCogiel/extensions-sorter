@@ -1,1 +1,1 @@
-# Extensions-Sorter
+# Extension Sorter
